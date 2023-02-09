@@ -41,7 +41,7 @@ margin-right: 4rem;
     
 }
 .Fotter-form{
-text-align: start;
+
 
 }
 .Fotter-sub-heading a:hover{
@@ -49,9 +49,12 @@ text-align: start;
 
 
 }
-#h3{
-
-    
-
-
+#formbox{
+margin-top: 30px;
+}
+#p{
+    position: relative;
+    position: absolute; 
+    bottom: 0px; 
+    text-align: start;
 }
